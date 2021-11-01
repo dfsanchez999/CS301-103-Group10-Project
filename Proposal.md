@@ -1,6 +1,9 @@
 # CS301-103-Group10-Project
 Space weather detection model
 
+Diego Sanchez
+Sumit Sehrawat 
+
 Proposal
 
 - What is the problem that you will be investigating? Why is it interesting?
