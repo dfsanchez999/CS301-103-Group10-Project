@@ -2,6 +2,7 @@
 Space weather detection model
 
 Diego Sanchez
+
 Sumit Sehrawat 
 
 Proposal
