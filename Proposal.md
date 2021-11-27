@@ -1,9 +1,11 @@
 # CS301-103-Group10-Project
 Space weather detection model
 
-Diego Sanchez
+Sumit Sehrawat
 
-Sumit Sehrawat 
+Bilal Naeem
+
+Muddaththir Qureshi
 
 Proposal
 
